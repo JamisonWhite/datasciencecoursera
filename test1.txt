@@ -1,0 +1,9 @@
+total 10
+drwxr-xr-x    1 jamie    Administ     4096 Apr 14 10:38 .
+drwxr-xr-x   29 jamie    Administ     8192 Apr 11 16:00 ..
+drwxr-xr-x    1 jamie    Administ     4096 Apr 14 10:37 .git
+-rw-r--r--    1 jamie    Administ      124 Apr 11 16:00 .gitignore
+-rw-r--r--    1 jamie    Administ       26 Apr 11 16:00 HelloWorld.md
+-rw-r--r--    1 jamie    Administ       89 Apr 11 16:00 README.md
+-rw-r--r--    1 jamie    Administ        0 Apr 14 10:38 test1.txt
+-rw-r--r--    1 jamie    Administ      456 Apr 14 10:38 test6.txt
